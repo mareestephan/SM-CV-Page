@@ -110,7 +110,7 @@ body.page-template-page-fullsingle-split {
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
-    background-image: url("../../images/background.jpg");
+    background-image: url("../../images/background3.jpg");
     background-position: center center;
     background-size: cover; }
     @media (max-width: 800px) {
@@ -152,7 +152,7 @@ body.page-template-page-fullsingle-split {
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
-    color: #CA486d; }
+    color: #FFC20A; }
   .split-intro .tagline {
     color: #CCCCCC; }
 
@@ -172,9 +172,9 @@ body.page-template-page-fullsingle-split {
     transition-duration: 0.5s;
     border-bottom: 1px dotted #848d96; }
     .split-bio a:hover {
-      color: #CA486d;
+      color: #FFC20A;
       transition-duration: 0.1s;
-      border-bottom: 1px dotted #CA486d; }
+      border-bottom: 1px dotted #FFC20A; }
 
 .split-lists .split-list {
   width: 30%;
@@ -189,7 +189,7 @@ body.page-template-page-fullsingle-split {
     font-size: 15px;
     line-height: 11px;
     margin-bottom: 31px;
-    color: #CA486d;
+    color: #FFC20A;
     letter-spacing: 2px; }
   .split-lists .split-list ul li {
     font-size: 16px;
@@ -199,7 +199,7 @@ body.page-template-page-fullsingle-split {
       color: #848d96;
       transition-duration: 0.5s; }
       .split-lists .split-list ul li a:hover {
-        color: #CA486d;
+        color: #FFC20A;
         transition-duration: 0.1s; }
 
 /*# sourceMappingURL=split.css.map */
